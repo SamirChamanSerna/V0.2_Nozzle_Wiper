@@ -25,4 +25,4 @@ Nozzle wiper for purging and cleaning the nozzle of a Voron V0.2. Inspire from t
 
 [![RDR](Renders/RDR.gif "RDR")](https://github.com/SamirChamanSerna/V0.2_Nozzle_Wiper/blob/main/Renders/RDR.gif "RDR")
 
-[![Spin](Renders/Spin.gif "Spin")](https://github.com/SamirChamanSerna/V0.2_Nozzle_Wiper/blob/main/Renders/Untitled%20Project.gif "Spin")
+[![Spin](Renders/Spin.gif "Spin")]([https://github.com/SamirChamanSerna/V0.2_Nozzle_Wiper/blob/main/Renders/Untitled%20Project.gif](https://github.com/SamirChamanSerna/V0.2_Nozzle_Wiper/blob/main/Renders/Spin.gif) "Spin")
